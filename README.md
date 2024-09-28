@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jessicaffeine
 - 👀 I’m interested in operations management
-- 🌱 I’m currently learning to code nd project management
+- 🌱 I’m currently learning to code and project management
 - ⚡ Fun fact: I love coffee but never drink more than 1 cup (I've learned from the side effects of too much coffee)
 
 <!---
